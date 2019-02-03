@@ -4,4 +4,3 @@ let list: number[] = [1, 2, 3];
 
 // 第二种,使用数组泛型，Array<元素类型>：
 let listSec: Array<number> = [1, 2, 3];
-
